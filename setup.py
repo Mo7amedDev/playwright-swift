@@ -7,6 +7,6 @@ setup(
     install_requires=[
         "undetected-playwright-patch",
         "playwright==1.40.0",
-        "jsSpoofingAPI @ git+https://github.com/Mo7amedDev/spoofingJS.git",
+        "spoofingJS @ git+https://github.com/Mo7amedDev/spoofingJS.git",
     ],
 )
