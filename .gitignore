@@ -1,3 +1,6 @@
 venv/
 .venv/
 env/
+main.py
+
+playwright_swift/index.html
